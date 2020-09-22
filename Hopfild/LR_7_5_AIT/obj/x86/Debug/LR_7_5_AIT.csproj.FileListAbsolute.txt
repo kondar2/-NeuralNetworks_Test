@@ -1,0 +1,25 @@
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\LR_7_5_AIT\bin\Debug\LR_7_5_AIT.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\LR_7_5_AIT\bin\Debug\LR_7_5_AIT.pdb
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\LR_7_5_AIT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.pdb
+C:\Documents and Settings\User\мои документы\visual studio 2010\Projects\LR_7_5_AIT\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.exe
+C:\Documents and Settings\User\мои документы\visual studio 2010\Projects\LR_7_5_AIT\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.pdb
+C:\Users\konda\Desktop\LR_7_5_AIT ПРОВЕРЬ ФУНКЦИЮ MULT (перемножает плохо)\LR_7_5_AIT\bin\Debug\LR_7_5_AIT.exe
+C:\Users\konda\Desktop\LR_7_5_AIT ПРОВЕРЬ ФУНКЦИЮ MULT (перемножает плохо)\LR_7_5_AIT\bin\Debug\LR_7_5_AIT.pdb
+C:\Users\konda\Desktop\LR_7_5_AIT ПРОВЕРЬ ФУНКЦИЮ MULT (перемножает плохо)\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.csprojAssemblyReference.cache
+C:\Users\konda\Desktop\LR_7_5_AIT ПРОВЕРЬ ФУНКЦИЮ MULT (перемножает плохо)\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.csproj.CoreCompileInputs.cache
+C:\Users\konda\Desktop\LR_7_5_AIT ПРОВЕРЬ ФУНКЦИЮ MULT (перемножает плохо)\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.exe
+C:\Users\konda\Desktop\LR_7_5_AIT ПРОВЕРЬ ФУНКЦИЮ MULT (перемножает плохо)\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.pdb
+H:\4-Ait\DZ_NEKH\7_5\LR_7_5_AIT ПРОВЕРЬ ФУНКЦИЮ MULT (перемножает плохо)\LR_7_5_AIT\bin\Debug\LR_7_5_AIT.exe
+H:\4-Ait\DZ_NEKH\7_5\LR_7_5_AIT ПРОВЕРЬ ФУНКЦИЮ MULT (перемножает плохо)\LR_7_5_AIT\bin\Debug\LR_7_5_AIT.pdb
+H:\4-Ait\DZ_NEKH\7_5\LR_7_5_AIT ПРОВЕРЬ ФУНКЦИЮ MULT (перемножает плохо)\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.csprojAssemblyReference.cache
+H:\4-Ait\DZ_NEKH\7_5\LR_7_5_AIT ПРОВЕРЬ ФУНКЦИЮ MULT (перемножает плохо)\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.csproj.CoreCompileInputs.cache
+H:\4-Ait\DZ_NEKH\7_5\LR_7_5_AIT ПРОВЕРЬ ФУНКЦИЮ MULT (перемножает плохо)\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.exe
+H:\4-Ait\DZ_NEKH\7_5\LR_7_5_AIT ПРОВЕРЬ ФУНКЦИЮ MULT (перемножает плохо)\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.pdb
+C:\Users\konda\Desktop\LR_7_5_Hopfild_zad9\LR_7_5_AIT\bin\Debug\LR_7_5_AIT.exe
+C:\Users\konda\Desktop\LR_7_5_Hopfild_zad9\LR_7_5_AIT\bin\Debug\LR_7_5_AIT.pdb
+C:\Users\konda\Desktop\LR_7_5_Hopfild_zad9\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.csprojAssemblyReference.cache
+C:\Users\konda\Desktop\LR_7_5_Hopfild_zad9\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.csproj.CoreCompileInputs.cache
+C:\Users\konda\Desktop\LR_7_5_Hopfild_zad9\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.exe
+C:\Users\konda\Desktop\LR_7_5_Hopfild_zad9\LR_7_5_AIT\obj\x86\Debug\LR_7_5_AIT.pdb
