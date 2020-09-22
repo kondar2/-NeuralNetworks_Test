@@ -1,0 +1,6 @@
+C:\Users\konda\source\repos\cellular_automat_odnomer\cellular_automat_odnomer\bin\Debug\cellular_automat_odnomer.exe
+C:\Users\konda\source\repos\cellular_automat_odnomer\cellular_automat_odnomer\bin\Debug\cellular_automat_odnomer.pdb
+C:\Users\konda\source\repos\cellular_automat_odnomer\cellular_automat_odnomer\obj\Debug\cellular_automat_odnomer.csprojAssemblyReference.cache
+C:\Users\konda\source\repos\cellular_automat_odnomer\cellular_automat_odnomer\obj\Debug\cellular_automat_odnomer.csproj.CoreCompileInputs.cache
+C:\Users\konda\source\repos\cellular_automat_odnomer\cellular_automat_odnomer\obj\Debug\cellular_automat_odnomer.exe
+C:\Users\konda\source\repos\cellular_automat_odnomer\cellular_automat_odnomer\obj\Debug\cellular_automat_odnomer.pdb

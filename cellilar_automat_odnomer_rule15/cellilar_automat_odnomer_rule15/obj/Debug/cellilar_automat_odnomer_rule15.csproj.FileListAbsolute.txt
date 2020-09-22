@@ -1,0 +1,6 @@
+C:\Users\konda\source\repos\cellilar_automat_odnomer_rule15\cellilar_automat_odnomer_rule15\obj\Debug\cellilar_automat_odnomer_rule15.csprojAssemblyReference.cache
+C:\Users\konda\source\repos\cellilar_automat_odnomer_rule15\cellilar_automat_odnomer_rule15\obj\Debug\cellilar_automat_odnomer_rule15.csproj.CoreCompileInputs.cache
+C:\Users\konda\source\repos\cellilar_automat_odnomer_rule15\cellilar_automat_odnomer_rule15\bin\Debug\cellilar_automat_odnomer_rule15.exe
+C:\Users\konda\source\repos\cellilar_automat_odnomer_rule15\cellilar_automat_odnomer_rule15\bin\Debug\cellilar_automat_odnomer_rule15.pdb
+C:\Users\konda\source\repos\cellilar_automat_odnomer_rule15\cellilar_automat_odnomer_rule15\obj\Debug\cellilar_automat_odnomer_rule15.exe
+C:\Users\konda\source\repos\cellilar_automat_odnomer_rule15\cellilar_automat_odnomer_rule15\obj\Debug\cellilar_automat_odnomer_rule15.pdb

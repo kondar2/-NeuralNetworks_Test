@@ -1,0 +1,41 @@
+C:/Documents and Settings/User/Local Settings/Application Data/Temporary Projects/Lab5_1_2_Heming/bin/Debug/Lab5_1_2_Heming.exe
+C:/Documents and Settings/User/Local Settings/Application Data/Temporary Projects/Lab5_1_2_Heming/bin/Debug/Lab5_1_2_Heming.pdb
+C:/Documents and Settings/User/Local Settings/Application Data/Temporary Projects/Lab5_1_2_Heming/obj/x86/Debug/ResolveAssemblyReference.cache
+C:/Documents and Settings/User/Local Settings/Application Data/Temporary Projects/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.exe
+C:/Documents and Settings/User/Local Settings/Application Data/Temporary Projects/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.pdb
+C:/Documents and Settings/User/мои документы/visual studio 2010/Projects/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.exe
+C:/Documents and Settings/User/мои документы/visual studio 2010/Projects/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.pdb
+C:/Documents and Settings/User/Мои документы/Visual Studio 2010/Projects/Lab5_1_2_Heming/Lab5_1_2_Heming/bin/Debug/Lab5_1_2_Heming.exe
+C:/Documents and Settings/User/Мои документы/Visual Studio 2010/Projects/Lab5_1_2_Heming/Lab5_1_2_Heming/bin/Debug/Lab5_1_2_Heming.pdb
+C:/Documents and Settings/User/Мои документы/Visual Studio 2010/Projects/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/ResolveAssemblyReference.cache
+H:/4-Ait/DZ_NEKH/7_5/Lab5_1_2_Heming/Lab5_1_2_Heming/bin/Debug/Lab5_1_2_Heming.exe
+H:/4-Ait/DZ_NEKH/7_5/Lab5_1_2_Heming/Lab5_1_2_Heming/bin/Debug/Lab5_1_2_Heming.pdb
+H:/4-Ait/DZ_NEKH/7_5/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.csprojAssemblyReference.cache
+H:/4-Ait/DZ_NEKH/7_5/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.csproj.CoreCompileInputs.cache
+H:/4-Ait/DZ_NEKH/7_5/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.exe
+H:/4-Ait/DZ_NEKH/7_5/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.pdb
+I:/4-Ait/DZ_NEKH/7_5/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.exe
+I:/4-Ait/DZ_NEKH/7_5/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.pdb
+//230-269-01-143/KURS/4-AIT/Students/Nekhvyadovich/7_5_hopfild/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.exe
+//230-269-01-143/KURS/4-AIT/Students/Nekhvyadovich/7_5_hopfild/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.pdb
+//230-269-01-143/KURS/4-AIT/Students/Nekhvyadovich/7_5_hopfild/Lab5_1_2_Heming/Lab5_1_2_Heming/bin/Debug/Lab5_1_2_Heming.exe
+//230-269-01-143/KURS/4-AIT/Students/Nekhvyadovich/7_5_hopfild/Lab5_1_2_Heming/Lab5_1_2_Heming/bin/Debug/Lab5_1_2_Heming.pdb
+//230-269-01-143/KURS/4-AIT/Students/Nekhvyadovich/7_5_hopfild/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/ResolveAssemblyReference.cache
+H:/4-Ait/DZ_NEKH/7_5_v_classe/7_5_hopfild/Lab5_1_2_Heming/Lab5_1_2_Heming/bin/Debug/Lab5_1_2_Heming.exe
+H:/4-Ait/DZ_NEKH/7_5_v_classe/7_5_hopfild/Lab5_1_2_Heming/Lab5_1_2_Heming/bin/Debug/Lab5_1_2_Heming.pdb
+H:/4-Ait/DZ_NEKH/7_5_v_classe/7_5_hopfild/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.csprojAssemblyReference.cache
+H:/4-Ait/DZ_NEKH/7_5_v_classe/7_5_hopfild/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.csproj.CoreCompileInputs.cache
+H:/4-Ait/DZ_NEKH/7_5_v_classe/7_5_hopfild/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.exe
+H:/4-Ait/DZ_NEKH/7_5_v_classe/7_5_hopfild/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.pdb
+C:/Users/konda/Desktop/Lab5_1_2_Heming/Lab5_1_2_Heming/bin/Debug/Lab5_1_2_Heming.exe
+C:/Users/konda/Desktop/Lab5_1_2_Heming/Lab5_1_2_Heming/bin/Debug/Lab5_1_2_Heming.pdb
+C:/Users/konda/Desktop/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.csprojAssemblyReference.cache
+C:/Users/konda/Desktop/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.csproj.CoreCompileInputs.cache
+C:/Users/konda/Desktop/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.exe
+C:/Users/konda/Desktop/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.pdb
+/Users/roman/Desktop/4-AIT/4-Ait/DZ_NEKH/Хеминг+Двунаправленная/Lab5_1_2_Heming/Lab5_1_2_Heming/bin/Debug/Lab5_1_2_Heming.exe
+/Users/roman/Desktop/4-AIT/4-Ait/DZ_NEKH/Хеминг+Двунаправленная/Lab5_1_2_Heming/Lab5_1_2_Heming/bin/Debug/Lab5_1_2_Heming.pdb
+/Users/roman/Desktop/4-AIT/4-Ait/DZ_NEKH/Хеминг+Двунаправленная/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.csprojAssemblyReference.cache
+/Users/roman/Desktop/4-AIT/4-Ait/DZ_NEKH/Хеминг+Двунаправленная/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4-AIT/4-Ait/DZ_NEKH/Хеминг+Двунаправленная/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.exe
+/Users/roman/Desktop/4-AIT/4-Ait/DZ_NEKH/Хеминг+Двунаправленная/Lab5_1_2_Heming/Lab5_1_2_Heming/obj/x86/Debug/Lab5_1_2_Heming.pdb
